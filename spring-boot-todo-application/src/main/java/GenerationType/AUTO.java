@@ -1,2 +1,4 @@
-package GenerationType;public class AUTO {
+package GenerationType;
+
+public class AUTO {
 }
